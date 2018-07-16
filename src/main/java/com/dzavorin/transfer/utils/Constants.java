@@ -19,6 +19,6 @@ public class Constants {
     public static final String PORT = "port";
     public static final String PATH_TO_CONFIG = "src/main/resources/config.json";
 
-    public static final int BAD_REQUEST = 403;
+    public static final int BAD_REQUEST = 400;
     public static final int OK = 200;
 }
