@@ -1,4 +1,4 @@
-**Money Transfer Rest APi**
+##Money Transfer
 
 Implementation of a RESTful API for creating accounts and money transfers between accounts.
 
